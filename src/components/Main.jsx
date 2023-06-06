@@ -8,7 +8,7 @@ export default function Main () {
             <header>
                 <NavBar />
             </header>
-            <section>
+            <section className="logo_y_carroussel-section">
                 <LogoCarroussel />
             </section>
 

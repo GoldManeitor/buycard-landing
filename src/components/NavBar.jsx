@@ -1,3 +1,5 @@
+import ContactBtn from "./Recursos/ContactoBtn";
+
 export default function NavBar () {
 
     return (
@@ -12,6 +14,7 @@ export default function NavBar () {
                 <div className="nav_comercio">
                     <p>Comercio</p>
                 </div>
+                <ContactBtn />
             </div>
         </>
     )
